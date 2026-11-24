@@ -1,0 +1,13 @@
+{
+ "kurs": "iqabi28",
+ "titel": "Informatik Q-Phase",
+ "nr": 1,
+ "datum": "2026-11-24",
+ "aenderungen": [
+  "Dein Lernraum für die ganze Q-Phase bis zum Abitur. Drin ist alles aus der Q1: das Schachportal und vier Kapitel zum Weiterlernen.",
+  "Jedes neue Halbjahr kommt mit einer neuen Fassung dazu. Dein Stand und deine Programme bleiben dabei, wie sie sind."
+ ],
+ "zip": "Lernraum Informatik Q-Phase.zip",
+ "sha256": "720bd5bffd771b69c3823f078aad7966f36818c45ecb6fc037ff92f8f9b6ebd8",
+ "groesse": 6809675
+}
