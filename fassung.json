@@ -1,13 +1,13 @@
 {
  "kurs": "iqabi28",
  "titel": "Informatik Q-Phase",
- "nr": 1,
- "datum": "2026-11-24",
+ "nr": 2,
+ "datum": "2026-11-25",
  "aenderungen": [
-  "Dein Lernraum für die ganze Q-Phase bis zum Abitur. Drin ist alles aus der Q1: das Schachportal und vier Kapitel zum Weiterlernen.",
-  "Jedes neue Halbjahr kommt mit einer neuen Fassung dazu. Dein Stand und deine Programme bleiben dabei, wie sie sind."
+  "Unten auf der Kursseite gibt es jetzt „Kapitel freischalten“: Wenn ein neues Kapitel dran ist, sagt dir dein Lehrer ein Kennwort. Einmal eingeben – danach ist das Kapitel da und bleibt offen, auch auf einem anderen Rechner mit deinem Stand.",
+  "Kleinere Verbesserungen am Editor, an den Übungen und bei „Ich kann …“."
  ],
  "zip": "Lernraum Informatik Q-Phase.zip",
- "sha256": "720bd5bffd771b69c3823f078aad7966f36818c45ecb6fc037ff92f8f9b6ebd8",
- "groesse": 6809675
+ "sha256": "49a46e4bbaf7978c905ecdcc5897b1b750ec6ef188a26fd1ca1ed4bde0ca9b6c",
+ "groesse": 14325334
 }
